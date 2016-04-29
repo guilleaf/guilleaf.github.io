@@ -6,16 +6,23 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Guillermo Avendaño-Franco
+email: gufranco@mail.wvu.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+	     Hello. My name is Guillermo. I’m a Colombian physicist living in Morgantown, WV 
+	     with a passion for science and art, who have being living in a number of places
+	     including Brazil and Belgium. I work on Computational Physics developing codes
+	     for atomistic simulation of materials.
+
+	     I am currently working on several projects on West Virginia University.
+	     In particular I am the creator of PyChemia, a code for automatize
+	     first-principles simulations and I working on Fireball a local-orbital ab-initio 
+	     tight binding implementation of molecular dynamics.
+
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://guilleaf.github.io" # the base hostname & protocol for your site
+twitter_username: guilleaf
+github_username:  guilleaf
 
 # Build settings
 markdown: kramdown
