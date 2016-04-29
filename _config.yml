@@ -9,15 +9,15 @@
 title: Guillermo Avendaño-Franco
 email: gufranco@mail.wvu.edu
 description: > # this means to ignore newlines until "baseurl:"
-	     Hello. My name is Guillermo. I’m a Colombian physicist living in Morgantown, WV 
-	     with a passion for science and art, who have being living in a number of places
-	     including Brazil and Belgium. I work on Computational Physics developing codes
-	     for atomistic simulation of materials.
+    Hello. My name is Guillermo. I’m a Colombian physicist living in Morgantown, WV 
+    with a passion for science and art, who have being living in a number of places
+    including Brazil and Belgium. I work on Computational Physics developing codes
+    for atomistic simulation of materials.
 
-	     I am currently working on several projects on West Virginia University.
-	     In particular I am the creator of PyChemia, a code for automatize
-	     first-principles simulations and I working on Fireball a local-orbital ab-initio 
-	     tight binding implementation of molecular dynamics.
+    I am currently working on several projects on West Virginia University.
+    In particular I am the creator of PyChemia, a code for automatize
+    first-principles simulations and I working on Fireball a local-orbital ab-initio 
+    tight binding implementation of molecular dynamics.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://guilleaf.github.io" # the base hostname & protocol for your site
